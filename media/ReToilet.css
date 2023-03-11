@@ -1,0 +1,18 @@
+/*THIS FILE ALLOWS STYLES. DO NOT EDIT UNLESS YOU WANT TO CHANGE WEBSITE STYLE*/
+body{
+  background-color: black;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+is(h1, h2, h3, h4, h5){
+  color: white;
+}
+
+a{
+  color: rebeccapurple;
+}
+
+a:hover{
+  color: red;
+}
